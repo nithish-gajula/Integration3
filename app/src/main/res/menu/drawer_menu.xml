@@ -6,25 +6,25 @@
     <group android:checkableBehavior="single">
 
         <item
-            android:id="@+id/nav_add_data"
+            android:id="@+id/addData"
             android:icon="@mipmap/add_in"
             android:title="Add Data" />
 
         <item
-            android:id="@+id/nav_individual_data"
+            android:id="@+id/myData"
             android:icon="@mipmap/document_in"
             android:title="Your Expenses" />
 
         <item
-            android:id="@+id/nav_all_data"
+            android:id="@+id/roomData"
             android:icon="@mipmap/user_folder_in"
             android:title="Get Room Data" />
 
 
         <item
-            android:id="@+id/nav_contact_us"
+            android:id="@+id/statistics"
             android:icon="@mipmap/insect_in"
-            android:title="Contact Us" />
+            android:title="Statistics" />
 
 
     </group>
